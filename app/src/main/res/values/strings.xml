@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">私のサンプルアプリ</string>
+    <string name="tab_text_1">HOME</string>
+    <string name="tab_text_2">NEWS</string>
+    <string name="tab_text_8">タブ8</string>
+    <string name="tab_text_7">タブ7</string>
+    <string name="tab_text_6">タブ6</string>
+    <string name="tab_text_5">タブ5</string>
+    <string name="tab_text_4">タブ4</string>
+    <string name="tab_text_3">STOCK</string>
+</resources>
